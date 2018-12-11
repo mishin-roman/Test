@@ -1,0 +1,13 @@
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\bin\Debug\netcoreapp2.1\TestAyaksRielt.deps.json
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\bin\Debug\netcoreapp2.1\TestAyaksRielt.runtimeconfig.json
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\bin\Debug\netcoreapp2.1\TestAyaksRielt.runtimeconfig.dev.json
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\bin\Debug\netcoreapp2.1\TestAyaksRielt.dll
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\bin\Debug\netcoreapp2.1\TestAyaksRielt.pdb
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.csproj.CoreCompileInputs.cache
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.RazorAssemblyInfo.cache
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.RazorAssemblyInfo.cs
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.AssemblyInfoInputs.cache
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.AssemblyInfo.cs
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.RazorTargetAssemblyInfo.cache
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.dll
+D:\mishi\Рабочий стол\TestAyaksRielt\TestAyaksRielt\obj\Debug\netcoreapp2.1\TestAyaksRielt.pdb
